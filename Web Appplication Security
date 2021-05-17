@@ -1,0 +1,16 @@
+The web application is one of the widely encountered things during my journey as an application security engineer and offensive security guy.
+Most of the externally faced resources of any organization are web applications
+
+Before diving deeper into how to test for Web Application Security, it is essential to know various concepts about Web Application, their communication, and components. This includes understanding how an HTTP Request is formed, how HTTP Response works, what are the various security headers, browser security features, what is CSP and CORS, etc. This is a basic concept and will eventually help you throughout your journey as Application Security Guy!
+
+Resources to learn Basic Concepts
+
+    About HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
+    HTTP Headers: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+    HTTP Security: https://developer.mozilla.org/en-US/docs/Web/Security
+    Content-Security Policy: https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+    HTTP Cookies: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Secure_and_HttpOnly_cookies
+    Web Security Cheatsheet: https://infosec.mozilla.org/guidelines/web_security
+    Cross-Origin Resource Sharing: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+    
+    
