@@ -1,0 +1,19 @@
+Once you have gained enough understanding about the basic concepts of Web Application, Operating Systems & Computer Networks, the next part before exploring the Security perspective is to understand some of the common security frameworks which are followed at the industry standard. This is going to help you in proper referencing and understanding which category your security vulnerability lies in. How you can rate the severity of an identified security issue and how to approach for remediation.
+
+OWASP: The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+
+    OWASP Web Top 10: https://owasp.org/www-project-top-ten/
+    OWASP API Top 10: https://owasp.org/www-project-api-security/
+    OWASP Mobile Top 10: https://owasp.org/www-project-mobile-top-10/
+    OWASP ASVS: https://owasp.org/www-project-application-security-verification-standard/
+    OWASP Vulnerability Management Guide: https://owasp.org/www-project-vulnerability-management-guide/OWASP-Vuln-Mgm-Guide-Jul23-2020.pdf
+    OWASP Risk Rating Methodology: https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
+
+STRIDE: The STRIDE model was developed by Microsoft in order to help security engineers understand and classify all possible threats on a server.
+The name of this model is an acronym for the six main types of threats.
+
+    Read More: https://docs.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20)?redirectedfrom=MSDN
+
+CVSS: The Common Vulnerability Scoring System (CVSS) provides a way to capture the principal characteristics of a vulnerability and produce a numerical score reflecting its severity. The numerical score can then be translated into a qualitative representation (such as low, medium, high, and critical) to help organizations properly assess and prioritize their vulnerability management processes.
+
+    Read More: https://www.first.org/cvss/
