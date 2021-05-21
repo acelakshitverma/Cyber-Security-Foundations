@@ -1,13 +1,8 @@
 # Cyber-Security-Foundations
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -148,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@acelakshitverma](https://twitter.com/your_acelakshitverma) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
