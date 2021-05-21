@@ -56,5 +56,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@acelakshitverma](https://twitter.com/your_acelakshitverma) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/acelakshitverma/Cyber-Security-Foundations)
+Project Link: [https://github.com/acelakshitverma/Cyber-Security-Foundations](https://github.com/acelakshitverma/Cyber-Security-Foundations)
 
