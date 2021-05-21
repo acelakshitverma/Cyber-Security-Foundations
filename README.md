@@ -3,9 +3,12 @@
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
-A curated list of amazingly awesome open source intelligence tools and resources.
-[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
+A curated list of amazingly awesome resources. These resources are colleted & curated from publicly available sources. 
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
+
+
+For Any Concerns Mail Us at acelakshitverma@gmail.com
+
 
 </p>
 
@@ -59,15 +62,3 @@ Your Name - [@acelakshitverma](https://twitter.com/your_acelakshitverma) - email
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-
-
-
-Cyber Security Foundations
-
-
-A curated list of amazingly awesome resources. These resources are colleted & curated from publicly available sources. 
-In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
-
-
-
-For Any Concerns Mail Us at acelakshitverma@gmail.com
