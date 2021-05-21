@@ -14,10 +14,10 @@ For Any Concerns Mail Us at acelakshitverma@gmail.com
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Overview Cybersecurity](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
