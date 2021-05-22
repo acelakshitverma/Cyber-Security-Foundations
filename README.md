@@ -2,7 +2,7 @@
 
 
 A curated list of amazingly awesome cybersecurity resources. These resources are colleted & curated from publicly available sources. 
-
+Curated Bunch Of Overview , Tools , Courses Etc
 
 For Any Concerns Mail Us at acelakshitverma@gmail.com
 
