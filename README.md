@@ -19,14 +19,14 @@ For Any Concerns Mail Us at acelakshitverma@gmail.com
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
 Here's why:
-* Cyber-Security-Essentials
-* Prerequisites for Beginners
-* Configuration & Labs Setup
-* Programming & Scripting For Hackers
-* Web Application Security 
-* Skills Required For Entry Level Job In Cybersecurity As a Fresher
-* Building Up a Awesome Cyber Security Profile
-* Landing Upon Your 1st Cybersecurity Job
+* Cyber-Security-Essentials[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Prerequisites for Beginners[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Configuration & Labs Setup[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Programming & Scripting For Hackers[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Web Application Security [@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Skills Required For Entry Level Job In Cybersecurity As a Fresher[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Building Up a Awesome Cyber Security Profile[@acelakshitverma](https://twitter.com/your_acelakshitverma)
+* Landing Upon Your 1st Cybersecurity Job[@acelakshitverma](https://twitter.com/your_acelakshitverma)
 
 
 
