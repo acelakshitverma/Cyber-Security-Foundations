@@ -13,15 +13,11 @@ Resources to learn Basic Concepts
     Web Security Cheatsheet: https://infosec.mozilla.org/guidelines/web_security
     Cross-Origin Resource Sharing: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
     
-    
-At this point, we will talk about how to get started in Web Application Security. There are tons of resources out there in the wild and it is not possible to learn/read all of them, however, choosing the best ones is also a difficult task. I am sharing some of the good resources to follow in order to get a good hold:
+   
 
-    OWASP Testing Guide explaining a wide range of security issues and how to test for them. This should be the initial reference guide to know and explore various security vulnerabilities.
-    PortSwigger Web Security Academy is the practical version of Web Application Hacker’s Handbook. You will get good learning resources (short and crisp) followed by Labs to master the things you are learning.
-    Bugcrowd Vulnerability Rating Taxonomy talks about multiple security issues and an associated severity with them. This is also a helpful resource to know multiple security issues.
-    OWASP Juice Shop is a real-life application and gives you a flavor to test multiple security vulnerabilities ranging from Injection, Access Control to XXE.
-    Cobalt.io Vulnerability Wiki is yet another great resource that includes a brief explanation, proof of concept, and risk ratings for various security issues based on OWASP ASVS.
-    PayloadAllTheThingsis an open-resource GitHub Repository that contains a huge list of payloads for all security issues and this is a good resource to know some of the new security issues as well.
-    Learn365is my own GitHub Repo which contains all the learning resources I am following in my #Learn365 challenge, these include various attack vectors including Web, Mobile, Network, Cloud, etc.
-    HackTricks GitBookis a great collection of resources about various Network, Mobile & Web Attack vectors.
-    InfoSec Writeups, PentesterLand & HackerOne Disclosures are great resources for looking at the Bug Bounty Writeups and learn how various hackers approach different bugs and different applications.
+  Portswigger Lab : https://portswigger.net/web-security
+ OWASP Web Top 10: https://owasp.org/www-project-top-ten/
+ OWASP API Top 10: https://owasp.org/www-project-api-security/
+ OWASP Mobile Top 10: https://owasp.org/www-project-mobile-top-10/
+ OWASP Vulnerability Management Guide: https://owasp.org/www-project-vulnerability-management-guide/OWASP-Vuln-Mgm-Guide-Jul23-2020.pdf
+ OWASP Risk Rating Methodology: https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
