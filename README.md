@@ -12,7 +12,7 @@ For Any Concerns Mail Us at acelakshitverma@gmail.com
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@acelakshitverma](https://twitter.com/your_acelakshitverma)
+Lakshit Verma - [@acelakshitverma](https://twitter.com/your_acelakshitverma)
 
 Project Link: [https://github.com/acelakshitverma/Cyber-Security-Foundations](https://github.com/acelakshitverma/Cyber-Security-Foundations)
 
